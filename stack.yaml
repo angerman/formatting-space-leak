@@ -1,0 +1,9 @@
+resolver: lts-11.13
+
+extra-package-dbs: []
+
+packages:
+- .
+
+extra-deps:
+- universum-1.2.0
